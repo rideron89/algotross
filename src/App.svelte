@@ -5,7 +5,7 @@
   onMount(async () => {
     let data = await (await fetch('/api')).json()
     message = data.msg
-    console.log('MESSAGE: ', message)
+    console.log('Updated message: ', message)
   })
 </script>
 
