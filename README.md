@@ -1,2 +1,0 @@
-# algotross
-Begin app
