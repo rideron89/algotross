@@ -1,8 +1,3 @@
 <style global>
-    @tailwind base;
-    @tailwind components;
-    @tailwind utilities;
-
-    @layer base {
-    }
+    @import './tailwind.css';
 </style>
